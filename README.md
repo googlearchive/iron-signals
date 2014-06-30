@@ -1,4 +1,4 @@
 core-signals
 ============
 
-See the [component landing page](http://polymer.github.io/core-signals) for more information.
+See the [component  page](http://www.polymer-project.org/docs/elements/core-elements.html#core-signals) for more information.
