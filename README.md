@@ -1,4 +1,4 @@
-core-signals
+iron-signals
 ============
 
-See the [component  page](http://www.polymer-project.org/docs/elements/core-elements.html#core-signals) for more information.
+See the [component page](http://www.polymer-project.org/docs/elements/iron-elements.html#iron-signals) for more information.

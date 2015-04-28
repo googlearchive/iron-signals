@@ -1,7 +1,19 @@
 {
-  "name": "core-signals",
-  "private": true,
+  "name": "iron-signals",
+  "version": "0.8.0",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer"
+  ],
+  "main": "iron-signals.html",
+  "license": "MIT",
+  "homepage": "https://github.com/PolymerElements/iron-signals/",
+
   "dependencies": {
-    "polymer": "Polymer/polymer#master"
+    "polymer": "Polymer/polymer#v0.8.0-rc.7",
+  },
+  "devDependencies": {
+    "iron-doc-viewer": "polymerelements/iron-doc-viewer#^0.8.0"
   }
 }
