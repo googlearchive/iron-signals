@@ -1,6 +1,6 @@
 {
   "name": "iron-signals",
-  "version": "0.9.1",
+  "version": "1.0.0",
   "description": "Basic publish-subscribe functionality",
   "keywords": [
     "web-component",
@@ -12,10 +12,10 @@
   "license": "http://polymer.github.io/LICENSE.txt",
   "homepage": "https://github.com/PolymerElements/iron-signals/",
   "dependencies": {
-    "polymer": "Polymer/polymer#^0.9.0"
+    "polymer": "Polymer/polymer#^1.0.0"
   },
   "devDependencies": {
-    "iron-component-page": "PolymerElements/iron-component-page#^0.9.0",
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
   }
 }
