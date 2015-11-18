@@ -1,6 +1,6 @@
 {
   "name": "iron-signals",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Basic publish-subscribe functionality",
   "keywords": [
     "web-component",
